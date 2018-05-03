@@ -70,4 +70,4 @@ None
 6. SUPPORT AND FEEDBACK 
 ------------------------
 
-If you have suggestions for future product releases or require technical support for your product, e-mail to techsupport@digitalpersona.com. In the subject line, type "U.are.U Fingerprint Reader Driver support".
+If you have suggestions for future product releases or require technical support for your product. In the subject line, type "U.are.U Fingerprint Reader Driver support".
